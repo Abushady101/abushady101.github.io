@@ -118,7 +118,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #03a2d9 !important;
 		}
 
 	strong, b {
@@ -1954,7 +1954,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #03a2d9;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2721,7 +2721,7 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #b7eadc;
+			color: #03a2d9;
 		}
 
 		#header a {
